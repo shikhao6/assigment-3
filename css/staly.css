@@ -4,6 +4,11 @@
     box-sizing: border-box;
 }
 
+#titel4 {
+    background-color: blanchedalmond;
+    color: aquamarine;
+}
+
 .title {
     font-size: 15px;
     color: white;
